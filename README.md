@@ -1,6 +1,15 @@
 # Pasted
 Temporary bookmark-like app.
 
+Soooo looks like most browsers block access to the clipboard, presumably as a
+safety feature (stealing passwords and such). 
+This puts a real damper on the idea, as it's pretty reliant on that functionality. 
+Are addons under the same restrictions? I know things like jdownloader scrape the 
+clipboard to find links you may want to download, but an external application is
+beyond the scope of my current capabilities. Oh well, next project I guess.
+
+
+
 The idea is that sometimes you want to save a link or a bit of text for later, 
 but using bookmarks eventually gets messy, and it's kind of a pain to manage 
 them constantly to clean them up. This aims to fix that annoyance.
